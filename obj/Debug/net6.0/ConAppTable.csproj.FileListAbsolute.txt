@@ -1,0 +1,14 @@
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTable\ConAppTable\bin\Debug\net6.0\ConAppTable.exe
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTable\ConAppTable\bin\Debug\net6.0\ConAppTable.deps.json
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTable\ConAppTable\bin\Debug\net6.0\ConAppTable.runtimeconfig.json
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTable\ConAppTable\bin\Debug\net6.0\ConAppTable.dll
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTable\ConAppTable\bin\Debug\net6.0\ConAppTable.pdb
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTable\ConAppTable\obj\Debug\net6.0\ConAppTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTable\ConAppTable\obj\Debug\net6.0\ConAppTable.AssemblyInfoInputs.cache
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTable\ConAppTable\obj\Debug\net6.0\ConAppTable.AssemblyInfo.cs
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTable\ConAppTable\obj\Debug\net6.0\ConAppTable.csproj.CoreCompileInputs.cache
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTable\ConAppTable\obj\Debug\net6.0\ConAppTable.dll
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTable\ConAppTable\obj\Debug\net6.0\refint\ConAppTable.dll
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTable\ConAppTable\obj\Debug\net6.0\ConAppTable.pdb
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTable\ConAppTable\obj\Debug\net6.0\ConAppTable.genruntimeconfig.cache
+C:\Mphasis\Simplilearn-P4\Day-4\ConAppTable\ConAppTable\obj\Debug\net6.0\ref\ConAppTable.dll
